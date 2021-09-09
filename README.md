@@ -277,13 +277,13 @@
 1. [Prüfer Code](/Additional%20Problems/Prufer%20Code.cpp)
 1. [Acyclic Graph Edges](/Additional%20Problems/Acyclic%20Graph%20Edges.cpp)
 1. [Strongly Connected Edges](/Additional%20Problems/Strongly%20Connected%20Edges.cpp)
-1. [Even Outdegree Edges](/Additional%20Problems/Even%20Outdegree%20Edges.cpp)
+1. Even Outdegree Edges
 1. [Multiplication Table](/Additional%20Problems/Multiplication%20Table.cpp)
 1. [Advertisement](/Additional%20Problems/Advertisement.cpp)
-1. Special Substrings
+1. [Special Substrings](/Additional%20Problems/Special%20Substring.cpp)
 1. [Permutation Inversions](/Additional%20Problems/Permutation%20Inversions.cpp)
 1. [Maximum Xor Subarray](/Additional%20Problems/Maximum%20Xor%20Subarray.cpp)
-1. Movie Festival Queries
+1. [Movie Festival Queries](/Additional%20Problems/Movie%20Festival%20Queries.cpp)
 1. [Chess Tournament](/Additional%20Problems/Chess%20Tournament.cpp)
 1. [Tree Traversals](/Additional%20Problems/Tree%20Traversals.cpp)
 1. [Network Renovation](/Additional%20Problems/Network%20Renovation.cpp)
@@ -291,20 +291,20 @@
 1. [Intersection Points](/Additional%20Problems/Intersection%20Points.cpp)
 1. [Inverse Inversions](/Additional%20Problems/Inverse%20Inversions.cpp)
 1. [Monotone Subsequences](/Additional%20Problems/Monotone%20Subsequences.cpp)
-1. String Reorder
-1. Stack Weights
-1. Pyramid Array
+1. [String Reorder](/Additional%20Problems/String%20Reorder.cpp)
+1. [Stack Weights](/Additional%20Problems/Stack%20Weights.cpp)
+1. [Pyramid Array](/Additional%20Problems/Advertisement.cpp)
 1. [Increasing Subsequence II](/Additional%20Problems/Increasing%20Subsequence%20II.cpp)
 1. [String Removals](/Additional%20Problems/String%20Removals.cpp)
 1. [Bit Inversions](/Additional%20Problems/Bit%20Inversions.cpp)
 1. [Xor Pyramid](/Additional%20Problems/Xor%20Pyramid.cpp)
-1. Writing Numbers
-1. String Transform
+1. [Writing Numbers](/Additional%20Problems/Writing%20Numbers.cpp)
+1. [String Transform](/Additional%20Problems/String%20Transform.cpp)
 1. Letter Pair Move Game
-1. Maximum Building I
+1. [Maximum Building I](/Additional%20Problems/Maximum%20Building%20I.cpp)
 1. [Sorting Methods](/Additional%20Problems/Sorting%20Methods.cpp)
-1. Cyclic Array
-1. List of Sums
+1. [Cyclic Array](/Additional%20Problems/Cyclic%20Array.cpp)
+1. [List of Sums](/Additional%20Problems/List%20of%20Sums.cpp)
 1. Increasing Array II
 1. Food Division
 1. Bit Problem
