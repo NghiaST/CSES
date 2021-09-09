@@ -328,7 +328,7 @@
 1. [Empty String](/Additional%20Problems/Empty%20String.cpp)
 1. [Grid Paths](/Additional%20Problems/Grid%20Paths.cpp)
 1. [Bit Substrings](/Additional%20Problems/Bit%20Substrings.cpp)
-1. Reversal Sorting                                    [Link](https://cses.fi/problemset/task/2075)
+1. [Reversal Sorting](/Additional%20Problems/Reversal%20Sorting.cpp)
 1. Counting Reorders                                   [Link](https://cses.fi/problemset/task/2421)
 1. [Book Shop II](/Additional%20Problems/Book%20Shop%20II.cpp)
 1. [Network Breakdown](/Additional%20Problems/Network%20Breakdown.cpp)
