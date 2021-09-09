@@ -279,7 +279,7 @@
 1. [Prüfer Code](/Additional%20Problems/Prufer%20Code.cpp)
 1. [Acyclic Graph Edges](/Additional%20Problems/Acyclic%20Graph%20Edges.cpp)
 1. [Strongly Connected Edges](/Additional%20Problems/Strongly%20Connected%20Edges.cpp)
-1. Even Outdegree Edges  [Link](https://cses.fi/problemset/task/2179)
+1. Even Outdegree Edges                                [Link](https://cses.fi/problemset/task/2179)
 1. [Multiplication Table](/Additional%20Problems/Multiplication%20Table.cpp)
 1. [Advertisement](/Additional%20Problems/Advertisement.cpp)
 1. [Special Substrings](/Additional%20Problems/Special%20Substring.cpp)
@@ -302,7 +302,7 @@
 1. [Xor Pyramid](/Additional%20Problems/Xor%20Pyramid.cpp)
 1. [Writing Numbers](/Additional%20Problems/Writing%20Numbers.cpp)
 1. [String Transform](/Additional%20Problems/String%20Transform.cpp)
-1. Letter Pair Move Game
+1. Letter Pair Move Game                               [Link](https://cses.fi/problemset/task/2179)
 1. [Maximum Building I](/Additional%20Problems/Maximum%20Building%20I.cpp)
 1. [Sorting Methods](/Additional%20Problems/Sorting%20Methods.cpp)
 1. [Cyclic Array](/Additional%20Problems/Cyclic%20Array.cpp)
@@ -311,10 +311,10 @@
 1. [Food Division](/Additional%20Problems/Food%20Division.cpp)
 1. [Bit Problem](/Additional%20Problems/Bit%20Problem.cpp)
 1. [Swap Round Sorting](/Additional%20Problems/Swap%20Roung%20Sorting.cpp)
-1. Binary Subsequences
+1. Binary Subsequences                                 [Link](https://cses.fi/problemset/task/2179)
 1. [Tree Isomorphism I](/Additional%20Problems/Tree%20Isomorphism%20I.cpp)
 1. [Counting Sequences](/Additional%20Problems/Counting%20Sequences.cpp)
-1. Critical Cities
+1. Critical Cities                                     [Link](https://cses.fi/problemset/task/2179)
 1. [School Excursion](/Additional%20Problems/School%20Excursion.cpp)
 1. [Coin Grid](/Additional%20Problems/Coin%20Grid.cpp)
 1. [Robot Path](/Additional%20Problems/Robot%20Path.cpp)
@@ -324,29 +324,29 @@
 1. [Coin Arrangement](/Additional%20Problems/Coin%20Arrangement.cpp)
 1. [Counting Bishops](/Additional%20Problems/Counting%20Bishops.cpp)
 1. [Grid Puzzle I](/Additional%20Problems/Grid%20Puzzle%20I.cpp)
-1. Grid Puzzle II
+1. Grid Puzzle II                                      [Link](https://cses.fi/problemset/task/2179)
 1. [Empty String](/Additional%20Problems/Empty%20String.cpp)
 1. [Grid Paths](/Additional%20Problems/Grid%20Paths.cpp)
 1. [Bit Substrings](/Additional%20Problems/Bit%20Substrings.cpp)
-1. Reversal Sorting
-1. Counting Reorders
+1. Reversal Sorting                                    [Link](https://cses.fi/problemset/task/2179)
+1. Counting Reorders                                   [Link](https://cses.fi/problemset/task/2179)
 1. [Book Shop II](/Additional%20Problems/Book%20Shop%20II.cpp)
 1. [Network Breakdown](/Additional%20Problems/Network%20Breakdown.cpp)
-1. Visiting Cities
-1. Missing Coin Sum Queries
+1. Visiting Cities                                     [Link](https://cses.fi/problemset/task/2179)
+1. Missing Coin Sum Queries                            [Link](https://cses.fi/problemset/task/2179)
 1. [Number Grid](/Additional%20Problems/Number%20Grid.cpp)
-1. Maximum Building II
-1. Filling Trominos
+1. Maximum Building II                                 [Link](https://cses.fi/problemset/task/2179)
+1. Filling Trominos                                    [Link](https://cses.fi/problemset/task/2179)
 1. [Stick Divisions](/Additional%20Problems/Stick%20Divisions.cpp)
 1. [Coding Company](/Additional%20Problems/Coding%20Company.cpp)
-1. Flight Route Requests
-1. Two Stacks Sorting
+1. Flight Route Requests                               [Link](https://cses.fi/problemset/task/2179)
+1. Two Stacks Sorting                                  [Link](https://cses.fi/problemset/task/2179)
 1. [Tree Isomorphism II](/Additional%20Problems/Tree%20Isomorphism%20II.cpp)
-1. Forbidden Cities
+1. Forbidden Cities                                    [Link](https://cses.fi/problemset/task/2179)
 1. [Area of Rectangles](/Additional%20Problems/Area%20of%20Rectangles.cpp)
-1. Grid Completion
-1. Creating Offices
-1. Permutations II
-1. Functional Graph Distribution
+1. Grid Completion                                     [Link](https://cses.fi/problemset/task/2179)
+1. Creating Offices                                    [Link](https://cses.fi/problemset/task/2179)
+1. Permutations II                                     [Link](https://cses.fi/problemset/task/2179)
+1. Functional Graph Distribution                       [Link](https://cses.fi/problemset/task/2179)
 1. [New Flight Routes](/Additional%20Problems/New%20Flight%20Routes.cpp)
-1. Grid Path Construction
+1. Grid Path Construction                              [Link](https://cses.fi/problemset/task/2179)
