@@ -265,9 +265,9 @@
 1. [Signal Processing](/Advanced%20Techniques/Signal%20Processing.cpp)
 1. [New Roads Queries](/Advanced%20Techniques/New%20Roads%20Queries.cpp)
 1. [Dynamic Connectivity](/Advanced%20Techniques/Dynamic%20Connectivity.cpp)
-1. Parcel Delivery
-1. Task Assignment
-1. Distinct Routes II
+1. [Parcel Delivery](/Advanced%20Techniques/Parcel%20Delivery.cpp)
+1. [Task Assignment](/Advanced%20Techniques/Task%20Assignment.cpp)
+1. [Distinct Routes II](/Advanced%20Techniques/Distinct%20Routes%20II.cpp)
 
 ## Additional Problems
 
