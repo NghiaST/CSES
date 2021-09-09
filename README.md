@@ -279,7 +279,7 @@
 1. [Prüfer Code](/Additional%20Problems/Prufer%20Code.cpp)
 1. [Acyclic Graph Edges](/Additional%20Problems/Acyclic%20Graph%20Edges.cpp)
 1. [Strongly Connected Edges](/Additional%20Problems/Strongly%20Connected%20Edges.cpp)
-1. Even Outdegree Edges
+1. Even Outdegree Edges  [Link](https://cses.fi/problemset/task/2179)
 1. [Multiplication Table](/Additional%20Problems/Multiplication%20Table.cpp)
 1. [Advertisement](/Additional%20Problems/Advertisement.cpp)
 1. [Special Substrings](/Additional%20Problems/Special%20Substring.cpp)
