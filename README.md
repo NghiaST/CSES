@@ -346,5 +346,5 @@
 1. Creating Offices
 1. Permutations II
 1. Functional Graph Distribution
-1. New Flight Routes
+1. [New Flight Routes](/Additional%20Problems/New%20Flight%20Routes.cpp)
 1. Grid Path Construction
