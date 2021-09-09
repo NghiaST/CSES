@@ -305,30 +305,30 @@
 1. [Sorting Methods](/Additional%20Problems/Sorting%20Methods.cpp)
 1. [Cyclic Array](/Additional%20Problems/Cyclic%20Array.cpp)
 1. [List of Sums](/Additional%20Problems/List%20of%20Sums.cpp)
-1. Increasing Array II
-1. Food Division
-1. Bit Problem
-1. Swap Round Sorting
+1. [Increasing Array II](/Additional%20Problems/Increasing%20Array%20II.cpp)
+1. [Food Division](/Additional%20Problems/Food%20Division.cpp)
+1. [Bit Problem](/Additional%20Problems/Bit%20Problem.cpp)
+1. [Swap Round Sorting](/Additional%20Problems/Swap%20Roung%20Sorting.cpp)
 1. Binary Subsequences
-1. Tree Isomorphism I
+1. [Tree Isomorphism I](/Additional%20Problems/Tree%20Isomorphism%20I.cpp)
 1. [Counting Sequences](/Additional%20Problems/Counting%20Sequences.cpp)
 1. Critical Cities
 1. [School Excursion](/Additional%20Problems/School%20Excursion.cpp)
-1. Coin Grid
-1. Robot Path
-1. Programmers and Artists
+1. [Coin Grid](/Additional%20Problems/Coin%20Grid.cpp)
+1. [Robot Path](/Additional%20Problems/Robot%20Path.cpp)
+1. [Programmers and Artists](/Additional%20Problems/Programmers%20ands%20Artists.cpp)
 1. [Course Schedule II](/Additional%20Problems/Course%20Schedule%20II.cpp)
-1. Removing Digits II
-1. Coin Arrangement
+1. [Removing Digits II](/Additional%20Problems/Removing%20Digits%20II.cpp)
+1. [Coin Arrangement](/Additional%20Problems/Coin%20Arrangement.cpp)
 1. [Counting Bishops](/Additional%20Problems/Counting%20Bishops.cpp)
-1. Grid Puzzle I
+1. [Grid Puzzle I](/Additional%20Problems/Grid%20Puzzle%20I.cpp)
 1. Grid Puzzle II
-1. Empty String
-1. [Grid Paths](/Additional%20Problems/Grid%20Paths%20III.cpp)
-1. Bit Substrings
+1. [Empty String](/Additional%20Problems/Empty%20String.cpp)
+1. [Grid Paths](/Additional%20Problems/Grid%20Paths.cpp)
+1. [Bit Substrings](/Additional%20Problems/Bit%20Substrings.cpp)
 1. Reversal Sorting
 1. Counting Reorders
-1. Book Shop II
+1. [Book Shop II](/Additional%20Problems/Book%20Shop%20II.cpp)
 1. [Network Breakdown](/Additional%20Problems/Network%20Breakdown.cpp)
 1. Visiting Cities
 1. Missing Coin Sum Queries
@@ -336,15 +336,15 @@
 1. Maximum Building II
 1. Filling Trominos
 1. [Stick Divisions](/Additional%20Problems/Stick%20Divisions.cpp)
-1. Coding Company
+1. [Coding Company](/Additional%20Problems/Coding%20Company.cpp)
 1. Flight Route Requests
 1. Two Stacks Sorting
-1. Tree Isomorphism II
+1. [Tree Isomorphism II](/Additional%20Problems/Tree%20Isomorphism%20II.cpp)
 1. Forbidden Cities
 1. [Area of Rectangles](/Additional%20Problems/Area%20of%20Rectangles.cpp)
 1. Grid Completion
 1. Creating Offices
-1. [Permutations II](/Additional%20Problems/Permutations%20II.cpp)
-1. [Functional Graph Distribution](/Additional%20Problems/Functional%20Graph%20Distribution.cpp)
+1. Permutations II
+1. Functional Graph Distribution
 1. New Flight Routes
 1. Grid Path Construction
