@@ -176,7 +176,7 @@
 1. [Finding a Centroid](/Tree%20Algorithms/Finding%20a%20Centroid.cpp)
 1. [Fixed-Length Paths I](/Tree%20Algorithms/Fixed%20Length%20Paths%20I.cpp)
 1. [Fixed-Length Paths II](/Tree%20Algorithms/Fixed%20Length%20Paths%20II.cpp)
-     [    Fixed-Length Paths II (small-to-large-merging)](/Tree%20Algorithms/Fixed%20Length%20Paths%20II%20(small-to-large-merging).cpp)
+     Better : [Fixed-Length Paths II (small-to-large-merging)](/Tree%20Algorithms/Fixed%20Length%20Paths%20II%20(small-to-large-merging).cpp)
 
 ## Mathematics
 
@@ -259,17 +259,17 @@
 1. [Monster Game I](/Advanced%20Techniques/Monster%20Game%20I.cpp)
 1. [Monster Game II](/Advanced%20Techniques/Monster%20Game%20II.cpp)
 1. [Subarray Squares](/Advanced%20Techniques/Subarray%20Squares.cpp)
-     [    Subarray Squares - Alien's trick](/Advanced%20Techniques/Subarray%20Squares%20-%20Alien's%20trick.cpp)
-3. [Houses and Schools](/Advanced%20Techniques/Houses%20and%20Schools.cpp)
-4. [Knuth Division](/Advanced%20Techniques/Knuth%20Division.cpp)
-5. [Apples and Bananas](/Advanced%20Techniques/Apples%20and%20Bananas.cpp)
-6. [One Bit Positions](/Advanced%20Techniques/One%20Bit%20Positions.cpp)
-7. [Signal Processing](/Advanced%20Techniques/Signal%20Processing.cpp)
-8. [New Roads Queries](/Advanced%20Techniques/New%20Roads%20Queries.cpp)
-9. [Dynamic Connectivity](/Advanced%20Techniques/Dynamic%20Connectivity.cpp)
-10. [Parcel Delivery](/Advanced%20Techniques/Parcel%20Delivery.cpp)
-11. [Task Assignment](/Advanced%20Techniques/Task%20Assignment.cpp)
-12. [Distinct Routes II](/Advanced%20Techniques/Distinct%20Routes%20II.cpp)
+     Better : [Subarray Squares - Alien's trick](/Advanced%20Techniques/Subarray%20Squares%20-%20Alien's%20trick.cpp)
+1. [Houses and Schools](/Advanced%20Techniques/Houses%20and%20Schools.cpp)
+1. [Knuth Division](/Advanced%20Techniques/Knuth%20Division.cpp)
+1. [Apples and Bananas](/Advanced%20Techniques/Apples%20and%20Bananas.cpp)
+1. [One Bit Positions](/Advanced%20Techniques/One%20Bit%20Positions.cpp)
+1. [Signal Processing](/Advanced%20Techniques/Signal%20Processing.cpp)
+1. [New Roads Queries](/Advanced%20Techniques/New%20Roads%20Queries.cpp)
+1. [Dynamic Connectivity](/Advanced%20Techniques/Dynamic%20Connectivity.cpp)
+1. [Parcel Delivery](/Advanced%20Techniques/Parcel%20Delivery.cpp)
+1. [Task Assignment](/Advanced%20Techniques/Task%20Assignment.cpp)
+1. [Distinct Routes II](/Advanced%20Techniques/Distinct%20Routes%20II.cpp)
 
 ## Additional Problems
 
