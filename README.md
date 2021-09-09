@@ -1,19 +1,17 @@
 # CSES Solutions
 
-Over 240 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Jonathan Uy [(nulltype)](https://cses.fi/user/22919). As of September 9th, the following number of solutions have been completed:
-
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     19/19     |
-| Sorting and Searching |     34/35     |
+| Sorting and Searching |     35/35     |
 | Dynamic Programming   |     19/19     |
 | Graph Algorithms      |     35/36     |
 | Range Queries         |     19/19     |
 | Tree Algorithms       |     16/16     |
 | Mathematics           |     31/31     |
-| String Algorithms     |     15/17     |
+| String Algorithms     |     17/17     |
 | Geometry              |      7/7      |
-| Advanced Techniques   |     21/24     |
+| Advanced Techniques   |     24/24     |
 | Additional Problems   |     34/77     |
 | **Total**             |  **250/300**  |
 
@@ -73,7 +71,7 @@ Over 240 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 1. [Subarray Distinct Values](/Sorting%20and%20Searching/Subarray%20Distinct%20Values.cpp)
 1. [Array Division](/Sorting%20and%20Searching/Array%20Division.cpp)
 1. [Sliding Median](/Sorting%20and%20Searching/Sliding%20Median.cpp)
-1. Sliding Cost
+1. [Sliding Cost](/Sorting%20and%20Searching/Sliding%20Cost.cpp)
 1. [Movie Festival II](/Sorting%20and%20Searching/Movie%20Festival%20II.cpp)
 1. [Maximum Subarray Sum II](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum%20II.cpp)
 
@@ -120,7 +118,7 @@ Over 240 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 1. [Game Routes](/Graph%20Algorithms/Game%20Routes.cpp)
 1. [Investigation](/Graph%20Algorithms/Investigation.cpp)
 1. [Planets Queries I](/Graph%20Algorithms/Planets%20Queries%20I.cpp)
-1. Planets Queries II
+1. [Planets Queries II](/Graph%20Algorithms/Planets%20Queries%20II.cpp)
 1. [Planets Cycles](/Graph%20Algorithms/Planets%20Cycles.cpp)
 1. [Road Reparation](/Graph%20Algorithms/Road%20Reparation.cpp)
 1. [Road Construction](/Graph%20Algorithms/Road%20Construction.cpp)
@@ -221,7 +219,7 @@ Over 240 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 1. [Finding Periods](/String%20Algorithms/Finding%20Periods.cpp)
 1. [Minimal Rotation](/String%20Algorithms/Minimal%20Rotation.cpp)
 1. [Longest Palindrome](/String%20Algorithms/Longest%20Palindrome.cpp)
-1. Required Substring
+1. [Required Substring](/String%20Algorithms/Required Substring.cpp)
 1. [Palindrome Queries](/String%20Algorithms/Palindrome%20Queries.cpp)
 1. [Finding Patterns](/String%20Algorithms/Finding%20Patterns.cpp)
 1. [Counting Patterns](/String%20Algorithms/Counting%20Patterns.cpp)
