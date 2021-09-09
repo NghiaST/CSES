@@ -175,8 +175,8 @@
 1. [Distinct Colors](/Tree%20Algorithms/Distinct%20Colors.cpp)
 1. [Finding a Centroid](/Tree%20Algorithms/Finding%20a%20Centroid.cpp)
 1. [Fixed-Length Paths I](/Tree%20Algorithms/Fixed%20Length%20Paths%20I.cpp)
-1. [Fixed-Length Paths II](/Tree%20Algorithms/Fixed%20Length%20Paths%20II.cpp)    
-     [Fixed-Length Paths II (small-to-large-merging)](/Tree%20Algorithms/Fixed%20Length%20Paths%20II%20(small-to-large-merging).cpp)
+1. [Fixed-Length Paths II](/Tree%20Algorithms/Fixed%20Length%20Paths%20II.cpp)
+     [    Fixed-Length Paths II (small-to-large-merging)](/Tree%20Algorithms/Fixed%20Length%20Paths%20II%20(small-to-large-merging).cpp)
 
 ## Mathematics
 
@@ -259,7 +259,7 @@
 1. [Monster Game I](/Advanced%20Techniques/Monster%20Game%20I.cpp)
 1. [Monster Game II](/Advanced%20Techniques/Monster%20Game%20II.cpp)
 1. [Subarray Squares](/Advanced%20Techniques/Subarray%20Squares.cpp)
-      [Subarray Squares](/Advanced%20Techniques/Subarray%20Squares%20-%20Alien's%20trick.cpp)
+     [    Subarray Squares - Alien's trick](/Advanced%20Techniques/Subarray%20Squares%20-%20Alien's%20trick.cpp)
 3. [Houses and Schools](/Advanced%20Techniques/Houses%20and%20Schools.cpp)
 4. [Knuth Division](/Advanced%20Techniques/Knuth%20Division.cpp)
 5. [Apples and Bananas](/Advanced%20Techniques/Apples%20and%20Bananas.cpp)
