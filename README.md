@@ -219,7 +219,7 @@
 1. [Finding Periods](/String%20Algorithms/Finding%20Periods.cpp)
 1. [Minimal Rotation](/String%20Algorithms/Minimal%20Rotation.cpp)
 1. [Longest Palindrome](/String%20Algorithms/Longest%20Palindrome.cpp)
-1. [Required Substring](/String%20Algorithms/Required Substring.cpp)
+1. [Required Substring](/String%20Algorithms/Required%20Substring.cpp)
 1. [Palindrome Queries](/String%20Algorithms/Palindrome%20Queries.cpp)
 1. [Finding Patterns](/String%20Algorithms/Finding%20Patterns.cpp)
 1. [Counting Patterns](/String%20Algorithms/Counting%20Patterns.cpp)
@@ -229,7 +229,7 @@
 1. [String Functions](/String%20Algorithms/String%20Functions.cpp)
 1. [Substring Order I](/String%20Algorithms/Substring%20Order%20I.cpp)
 1. [Substring Order II](/String%20Algorithms/Substring%20Order%20II.cpp)
-1. Substring Distribution
+1. [Substring Distribution](/String%20Algorithms/Substring%20Distribution.cpp)
 
 
 ## Geometry
