@@ -2,7 +2,7 @@
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| #Introductory Problems |     19/19     |
+| # Introductory Problems |     19/19     |
 | #Sorting and Searching |     35/35     |
 | #Dynamic Programming   |     19/19     |
 | #Graph Algorithms      |     36/36     |
