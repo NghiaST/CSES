@@ -13,7 +13,7 @@
 | Geometry              |      7/7      |
 | Advanced Techniques   |     24/24     |
 | Additional Problems   |     58/77     |
-| **Total**             |  **250/300**  |
+| **Total**             |  **281/300**  |
 
 # Table of Contents
 
