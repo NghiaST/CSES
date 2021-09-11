@@ -339,7 +339,7 @@
 1. Filling Trominos                                    [Link](https://cses.fi/problemset/task/2423)
 1. [Stick Divisions](/Additional%20Problems/Stick%20Divisions.cpp)
 1. [Coding Company](/Additional%20Problems/Coding%20Company.cpp)
-1. Flight Route Requests                               [Link](https://cses.fi/problemset/task/1699)
+1. [Flight Route Requests](/Additional%20Problems/Flight%20Route%20Requests.cpp)
 1. Two Stacks Sorting                                  [Link](https://cses.fi/problemset/task/2402)
 1. [Tree Isomorphism II](/Additional%20Problems/Tree%20Isomorphism%20II.cpp)
 1. Forbidden Cities                                    [Link](https://cses.fi/problemset/task/1705)
