@@ -181,7 +181,7 @@
 ## Mathematics
 
 1. [Josephus Queries](/Mathematics/Josephus%20Queries.cpp)
-1. [Exponentiation](/Mathematics/Exponentiation%20I.cpp)
+1. [Exponentiation](/Mathematics/Exponentiation.cpp)
 1. [Exponentiation II](/Mathematics/Exponentiation%20II.cpp)
 1. [Counting Divisors](/Mathematics/Counting%20Divisors.cpp)
 1. [Common Divisors](/Mathematics/Common%20Divisors.cpp)
