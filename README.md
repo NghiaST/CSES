@@ -336,7 +336,7 @@
 1. Missing Coin Sum Queries                            [Link](https://cses.fi/problemset/task/2184)
 1. [Number Grid](/Additional%20Problems/Number%20Grid.cpp)
 1. Maximum Building II                                 [Link](https://cses.fi/problemset/task/1148)
-1. Filling Trominos                                    [Link](https://cses.fi/problemset/task/2423)
+1. [Filling Trominos](/Additional%20Problems/Filling%20Trominos.cpp)
 1. [Stick Divisions](/Additional%20Problems/Stick%20Divisions.cpp)
 1. [Coding Company](/Additional%20Problems/Coding%20Company.cpp)
 1. [Flight Route Requests](/Additional%20Problems/Flight%20Route%20Requests.cpp)
