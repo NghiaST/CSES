@@ -1,4 +1,5 @@
 /// Centroid Decomposition
+/// Complexity: O(N * log^2 N)
 #include <iostream>
 #include <vector>
 using namespace std;
