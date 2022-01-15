@@ -176,6 +176,7 @@
 1. [Finding a Centroid](/Tree%20Algorithms/Finding%20a%20Centroid.cpp)
 1. [Fixed-Length Paths I](/Tree%20Algorithms/Fixed-Length%20Paths%20I.cpp)
 1. [Fixed-Length Paths II](/Tree%20Algorithms/Fixed-Length%20Paths%20II.cpp)
+     Better : [Fixed-Length Paths II - faster](/Tree%20Algorithms/Fixed-Length%20Paths%20II%20-%20faster.cpp)
      Better : [Fixed-Length Paths II (small-to-large-merging)](/Tree%20Algorithms/Fixed-Length%20Paths%20II%20(small-to-large-merging).cpp)
 
 ## Mathematics
