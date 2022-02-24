@@ -12,8 +12,8 @@
 | String Algorithms     |     17/17     |
 | Geometry              |      7/7      |
 | Advanced Techniques   |     24/24     |
-| Additional Problems   |     69/77     |
-| **Total**             |  **292/300**  |
+| Additional Problems   |     70/77     |
+| **Total**             |  **293/300**  |
 
 # Table of Contents
 
@@ -303,7 +303,7 @@
 1. [Xor Pyramid](/Additional%20Problems/Xor%20Pyramid.cpp)
 1. [Writing Numbers](/Additional%20Problems/Writing%20Numbers.cpp)
 1. [String Transform](/Additional%20Problems/String%20Transform.cpp)
-1. Letter Pair Move Game                               [Link](https://cses.fi/problemset/task/2427)
+1. [Letter Pair Move Game](/Additional%20Problems/Letter%20Pair%20Move%20Game.cpp)
 1. [Maximum Building I](/Additional%20Problems/Maximum%20Building%20I.cpp)
 1. [Sorting Methods](/Additional%20Problems/Sorting%20Methods.cpp)
 1. [Cyclic Array](/Additional%20Problems/Cyclic%20Array.cpp)
