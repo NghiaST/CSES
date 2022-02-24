@@ -259,7 +259,7 @@
 1. [Eulerian Subgraphs](/Advanced%20Techniques/Eulerian%20Subgraphs.cpp)
 1. [Monster Game I](/Advanced%20Techniques/Monster%20Game%20I.cpp)
 1. [Monster Game II](/Advanced%20Techniques/Monster%20Game%20II.cpp)
-1. [Subarray Squares](/Advanced%20Techniques/Subarray%20Squares.cpp)
+1. [Subarray Squares](/Advanced%20Techniques/Subarray%20Squares.cpp)  
      Better : [Subarray Squares - Alien's trick](/Advanced%20Techniques/Subarray%20Squares%20-%20Alien's%20trick.cpp)
 1. [Houses and Schools](/Advanced%20Techniques/Houses%20and%20Schools.cpp)
 1. [Knuth Division](/Advanced%20Techniques/Knuth%20Division.cpp)
