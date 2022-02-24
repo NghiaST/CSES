@@ -334,7 +334,7 @@
 1. [Book Shop II](/Additional%20Problems/Book%20Shop%20II.cpp)
 1. [Network Breakdown](/Additional%20Problems/Network%20Breakdown.cpp)
 1. [Visiting Cities](/Additional%20Problems/Visiting%20Cities.cpp)
-1. Missing Coin Sum Queries                            [Link](https://cses.fi/problemset/task/2184)
+1. [Missing Coin Sum Queries](/Additional%20Problems/Missing%20Coin%20Sum%20Queries.cpp)
 1. [Number Grid](/Additional%20Problems/Number%20Grid.cpp)
 1. Maximum Building II                                 [Link](https://cses.fi/problemset/task/1148)
 1. [Filling Trominos](/Additional%20Problems/Filling%20Trominos.cpp)
