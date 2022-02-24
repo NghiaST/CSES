@@ -12,8 +12,8 @@
 | String Algorithms     |     17/17     |
 | Geometry              |      7/7      |
 | Advanced Techniques   |     24/24     |
-| Additional Problems   |     70/77     |
-| **Total**             |  **293/300**  |
+| Additional Problems   |     71/77     |
+| **Total**             |  **294/300**  |
 
 # Table of Contents
 
@@ -325,7 +325,7 @@
 1. [Coin Arrangement](/Additional%20Problems/Coin%20Arrangement.cpp)
 1. [Counting Bishops](/Additional%20Problems/Counting%20Bishops.cpp)
 1. [Grid Puzzle I](/Additional%20Problems/Grid%20Puzzle%20I.cpp)
-1. Grid Puzzle II                                      [Link](https://cses.fi/problemset/task/2131)
+1. [Grid Puzzle II](/Additional%20Problems/Grid%20Puzzle%20II.cpp)
 1. [Empty String](/Additional%20Problems/Empty%20String.cpp)
 1. [Grid Paths](/Additional%20Problems/Grid%20Paths.cpp)
 1. [Bit Substrings](/Additional%20Problems/Bit%20Substrings.cpp)
