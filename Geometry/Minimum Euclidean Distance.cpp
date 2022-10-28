@@ -18,7 +18,7 @@ void getMin(int l, int r) {
     long long x_mid = a[mid].x;
     getMin(l, mid);
     getMin(mid+1, r);
-    merge(a+l, a+mid, a+mid, a+r+1, tmp, cmp2);
+    merge(a+l, a+mid+1, a+mid+1, a+r+1, tmp, cmp2);
     copy(tmp, tmp+r-l+1, a+l);
     int rr = 0;
     for(int i=l; i<=r; ++i) if ((a[i].x - x_mid) * (a[i].x - x_mid) <= res) Q[++rr] = a[i];
